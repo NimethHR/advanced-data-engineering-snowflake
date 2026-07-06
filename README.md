@@ -28,7 +28,7 @@ You can then open the repo in your preferred code editor. Throughout the course,
 
 All of the code that you need to successfully complete the course is within this repo. Each folder in this repo corresponds to a module in the online course.
 
-* **module-1** – Corresponds to "Module 1: DevOps with Snowflake" in the course.
+* **module-1.0** – Corresponds to "Module 1: DevOps with Snowflake" in the course.
 
 * **module-2** – Corresponds to "Module 2: Observability with Snowflake" in the course.
 
